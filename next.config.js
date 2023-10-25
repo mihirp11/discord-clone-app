@@ -7,7 +7,7 @@ const nextConfig = {
     });
     return config;
   },
-  images: { domains: ["utfs.io"] },
+  images: { domains: ["utfs.io", "uploadthing.com"] },
 };
 
 module.exports = nextConfig;
