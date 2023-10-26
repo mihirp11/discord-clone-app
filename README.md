@@ -1,4 +1,4 @@
-# Discord Clone
+# [Discord Clone](https://discord-clone-app-production.up.railway.app/)
 <img width="846" alt="Screenshot 2023-10-25 at 11 23 37 PM" src="https://github.com/mihirp11/discord-clone-app/assets/114366288/d0e10f53-594c-4fed-b594-c1596730c58c">
 <img width="846" alt="Screenshot 2023-10-25 at 11 38 00 PM" src="https://github.com/mihirp11/discord-clone-app/assets/114366288/4a604511-f0c7-4e75-8127-1580d377d5a7">
 
