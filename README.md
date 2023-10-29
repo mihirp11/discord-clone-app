@@ -53,4 +53,4 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 <img width="1479" alt="Screenshot 2023-10-25 at 11 58 56 PM" src="https://github.com/mihirp11/discord-clone-app/assets/114366288/9fb8ce8d-ff49-4308-a9d8-3547b3a5069c">
 
--LiveKit provides a way to create audio and video calls between either two users or with a whole channel. LiveKits components are pre-styled and can be included in the app quickly  
+- LiveKit provides a way to create audio and video calls between either two users or with a whole channel. LiveKits components are pre-styled and can be included in the app quickly  
