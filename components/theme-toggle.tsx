@@ -14,7 +14,6 @@ import {
 
 export function ModeToggle() {
   const { setTheme, theme } = useTheme();
-  console.log("THEEM", theme, typeof theme);
 
   return (
     <Button
